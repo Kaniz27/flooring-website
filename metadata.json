@@ -1,0 +1,8 @@
+
+{
+  "name": "ASM Shahin Flooring LLC",
+  "description": "Professional Supplier, Retailer & Wholesaler of Flooring & Interior Solutions in Dubai, UAE. Specializing in high-quality wood flooring, wall panels, and carpets.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
