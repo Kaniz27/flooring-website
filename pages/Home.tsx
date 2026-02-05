@@ -7,11 +7,11 @@ import { PRODUCT_CATEGORIES, CONTACT_ADDRESS } from '../constants';
 
 const Home: React.FC = () => {
   const categoryImages: Record<string, string> = {
-    'Flooring': 'https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?q=80&w=2070&auto=format&fit=crop',
-    'Wall Panels': 'https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=2074&auto=format&fit=crop',
-    'Accessories': 'https://images.unsplash.com/photo-1503602642458-2321159b556a?q=80&w=2069&auto=format&fit=crop',
-    'Carpet': 'https://images.unsplash.com/photo-1582234052329-a1b6932a3962?q=80&w=2070&auto=format&fit=crop',
-    'Cabinet & Furniture': 'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=2070&auto=format&fit=crop'
+    'Flooring': 'https://media.tarkett-image.com/medium/IN-Floor-Laminate-WoodstockAquaBlock-SheffieldOakSpring_510043033_001.jpg',
+    'Wall Panels': 'https://www.charlesandivy.co.uk/cdn/shop/files/60cm-sq-natualoak-black-batton.jpg?v=1694687162&width=1200',
+    'Accessories': 'https://image.made-in-china.com/202f0j00mwlaHFAEZtpL/Skirting-for-Laminate-Flooring-Accessories-Skirting-Board.webp',
+    'Carpet': 'https://cdn.mos.cms.futurecdn.net/8yfTTZLruqZQYqWTWP2BoZ.jpg',
+    'Cabinet & Furniture': 'https://cms-site.oss-accelerate.aliyuncs.com/birchevercom/2024/01/20240129080148527-1024x682.jpg?x-oss-process=image/format,webp/quality,q_100'
   };
 
   return (
