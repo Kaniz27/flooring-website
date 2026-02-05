@@ -68,7 +68,7 @@ const Contact: React.FC = () => {
               </div>
 
               <div className="flex space-x-4">
-                <a href="#" className="w-12 h-12 bg-white/10 rounded-xl flex items-center justify-center hover:bg-white/20 transition-all"><FaFacebook /></a>
+                <a href="https://www.facebook.com/share/1BKFNtAGEV/" className="w-12 h-12 bg-white/10 rounded-xl flex items-center justify-center hover:bg-white/20 transition-all"><FaFacebook /></a>
                 <a href={WHATSAPP_LINK} className="w-12 h-12 bg-white/10 rounded-xl flex items-center justify-center hover:bg-white/20 transition-all"><FaWhatsapp /></a>
                 <a href={`mailto:${CONTACT_EMAIL}`} className="w-12 h-12 bg-white/10 rounded-xl flex items-center justify-center hover:bg-white/20 transition-all"><FaEnvelope /></a>
               </div>

@@ -24,7 +24,7 @@ const Footer: React.FC = () => {
               Professional Supplier, Retailer & Wholesaler of high-quality Flooring & Interior Solutions based in Dubai. We transform spaces with elegance and durability.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-purple-600 transition-colors">
+              <a href="https://www.facebook.com/share/1BKFNtAGEV/" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-purple-600 transition-colors">
                 <FaFacebook />
               </a>
               <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-purple-600 transition-colors">
